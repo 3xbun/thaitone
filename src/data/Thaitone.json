@@ -1,0 +1,674 @@
+[
+  {
+    "colorName": "แดงชาด",
+    "hex": "#c9242b"
+  },
+  {
+    "colorName": "หงชาด",
+    "hex": "#cb6669"
+  },
+  {
+    "colorName": "ดินแดง",
+    "hex": "#984c36"
+  },
+  {
+    "colorName": "ดินแดงเทศ",
+    "hex": "#98262a"
+  },
+  {
+    "colorName": "ดินแดงตัด",
+    "hex": "#76202a"
+  },
+  {
+    "colorName": "แดงตัด",
+    "hex": "#951519"
+  },
+  {
+    "colorName": "หงดินตัด",
+    "hex": "#894c3e"
+  },
+  {
+    "colorName": "หงดิน",
+    "hex": "#d59088"
+  },
+  {
+    "colorName": "หงสบาท",
+    "hex": "#df92a3"
+  },
+  {
+    "colorName": "ผุ่นแดง",
+    "hex": "#df92a3"
+  },
+  {
+    "colorName": "ก้ามปูหลุด",
+    "hex": "#dc4028"
+  },
+  {
+    "colorName": "บัวโรย",
+    "hex": "#ca6a7a"
+  },
+  {
+    "colorName": "ท้องสิงห์",
+    "hex": "#dc577e"
+  },
+  {
+    "colorName": "ดอกอุบล",
+    "hex": "#dd6d91"
+  },
+  {
+    "colorName": "แดงดอกกระมุท",
+    "hex": "#d6999e"
+  },
+  {
+    "colorName": "ลิ้นจี่",
+    "hex": "#a62b4c"
+  },
+  {
+    "colorName": "แดงดอกชบา",
+    "hex": "#e63f3d"
+  },
+  {
+    "colorName": "น้ำครั่ง",
+    "hex": "#dc403e"
+  },
+  {
+    "colorName": "แดงยอ",
+    "hex": "#c93b5e"
+  },
+  {
+    "colorName": "ก้ามปูอสุรา",
+    "hex": "#d35425"
+  },
+  {
+    "colorName": "ดอกบานเย็น",
+    "hex": "#f27091"
+  },
+  {
+    "colorName": "น้ำหมาก",
+    "hex": "#a13422"
+  },
+  {
+    "colorName": "กุหลาบ",
+    "hex": "#f698a3"
+  },
+  {
+    "colorName": "เกสรชมพู่",
+    "hex": "#db3b7b"
+  },
+  {
+    "colorName": "แดงมณี",
+    "hex": "#ca3c3d"
+  },
+  {
+    "colorName": "นิลุบล",
+    "hex": "#ac83a8"
+  },
+  {
+    "colorName": "เสน",
+    "hex": "#f25821"
+  },
+  {
+    "colorName": "หงเสน",
+    "hex": "#f58465"
+  },
+  {
+    "colorName": "ลูกพิกุล",
+    "hex": "#dc4c33"
+  },
+  {
+    "colorName": "เมฆสนทยา",
+    "hex": "#f68b32"
+  },
+  {
+    "colorName": "ก้านดอกกรรณิการ์",
+    "hex": "#d14c28"
+  },
+  {
+    "colorName": "ภูอัคนี",
+    "hex": "#e09179"
+  },
+  {
+    "colorName": "หมากสุก",
+    "hex": "#f36e31"
+  },
+  {
+    "colorName": "ดอกทับทิม",
+    "hex": "#dd5734"
+  },
+  {
+    "colorName": "น้ำผึ้ง",
+    "hex": "#d77c29"
+  },
+  {
+    "colorName": "หม้อใหม่",
+    "hex": "#e3a377"
+  },
+  {
+    "colorName": "รงทอง",
+    "hex": "#e8bb1f"
+  },
+  {
+    "colorName": "หรดาล",
+    "hex": "#ffde2c"
+  },
+  {
+    "colorName": "เปลือกข้าวโพด",
+    "hex": "#f58465"
+  },
+  {
+    "colorName": "เลื่อมประภัสสร",
+    "hex": "#cec9a2"
+  },
+  {
+    "colorName": "จันทร์",
+    "hex": "#f4d25d"
+  },
+  {
+    "colorName": "จำปา",
+    "hex": "#eea31f"
+  },
+  {
+    "colorName": "เหลืองดิน",
+    "hex": "#be9c25"
+  },
+  {
+    "colorName": "ดอกบวบ",
+    "hex": "#ffe95e"
+  },
+  {
+    "colorName": "ไม้กฤษณา",
+    "hex": "#e5be82"
+  },
+  {
+    "colorName": "เหลืองไพล",
+    "hex": "#ead415"
+  },
+  {
+    "colorName": "ลูกจันทร์",
+    "hex": "#f2c04e"
+  },
+  {
+    "colorName": "มุกสุข",
+    "hex": "#c7ae7b"
+  },
+  {
+    "colorName": "ขี้ผึ้ง",
+    "hex": "#d09b2a"
+  },
+  {
+    "colorName": "เนื้อ",
+    "hex": "#f1d7b3"
+  },
+  {
+    "colorName": "มะตูมสุก",
+    "hex": "#d88529"
+  },
+  {
+    "colorName": "เขียวไพร",
+    "hex": "#687840"
+  },
+  {
+    "colorName": "เขียวตั้งแช",
+    "hex": "#45ab87"
+  },
+  {
+    "colorName": "เขียวขี้ทอง",
+    "hex": "#00796e"
+  },
+  {
+    "colorName": "เขียวขี้ม้า",
+    "hex": "#6b6b3e"
+  },
+  {
+    "colorName": "เขียวขาบ",
+    "hex": "#00676e"
+  },
+  {
+    "colorName": "เขียวก้านตอง",
+    "hex": "#269a82"
+  },
+  {
+    "colorName": "เขียวนวล",
+    "hex": "#58986f"
+  },
+  {
+    "colorName": "เขียวก้ามปู",
+    "hex": "#17372a"
+  },
+  {
+    "colorName": "เขียวดิน",
+    "hex": "#356740"
+  },
+  {
+    "colorName": "เขียวไข่ครุฑ",
+    "hex": "#00968f"
+  },
+  {
+    "colorName": "ตองอ่อน",
+    "hex": "#919b4a"
+  },
+  {
+    "colorName": "เขียวตอง",
+    "hex": "#21723e"
+  },
+  {
+    "colorName": "เขียวขจี",
+    "hex": "#008068"
+  },
+  {
+    "colorName": "เขียวไบแค",
+    "hex": "#145139"
+  },
+  {
+    "colorName": "ก้านมะลิ",
+    "hex": "#69b496"
+  },
+  {
+    "colorName": "เขียวไข่กา",
+    "hex": "#93b692"
+  },
+  {
+    "colorName": "ไม้ไผ่",
+    "hex": "#278766"
+  },
+  {
+    "colorName": "เขียวถั่ว",
+    "hex": "#6d953a"
+  },
+  {
+    "colorName": "เขียวนกกะลิง",
+    "hex": "#88ab68"
+  },
+  {
+    "colorName": "เขียวตะพุ่น",
+    "hex": "#5192a1"
+  },
+  {
+    "colorName": "เขียวขี้นกการเวท",
+    "hex": "#7dbfb8"
+  },
+  {
+    "colorName": "มหาดไทย",
+    "hex": "#657249"
+  },
+  {
+    "colorName": "เขียวน้ำไหล",
+    "hex": "#00968f"
+  },
+  {
+    "colorName": "หญ้าแพรกอ่อน",
+    "hex": "#dcd990"
+  },
+  {
+    "colorName": "มรกต",
+    "hex": "#009058"
+  },
+  {
+    "colorName": "เขียวมะพูด",
+    "hex": "#bcb531"
+  },
+  {
+    "colorName": "โศก",
+    "hex": "#84c299"
+  },
+  {
+    "colorName": "เขียวรงกา",
+    "hex": "#5f8d56"
+  },
+  {
+    "colorName": "คราม",
+    "hex": "#16466e"
+  },
+  {
+    "colorName": "ครามฝรั่ง",
+    "hex": "#0c4da2"
+  },
+  {
+    "colorName": "มอคราม",
+    "hex": "#577896"
+  },
+  {
+    "colorName": "เมฆคราม",
+    "hex": "#072f4f"
+  },
+  {
+    "colorName": "เมฆ",
+    "hex": "#93adbd"
+  },
+  {
+    "colorName": "ตากุ้ง",
+    "hex": "#296169"
+  },
+  {
+    "colorName": "ขาบ",
+    "hex": "#1a465a"
+  },
+  {
+    "colorName": "ขาบดำ",
+    "hex": "#042738"
+  },
+  {
+    "colorName": "เข้มขาบ",
+    "hex": "#005465"
+  },
+  {
+    "colorName": "น้ำไหล",
+    "hex": "#5aaebd"
+  },
+  {
+    "colorName": "ขนคอนางนกยูง",
+    "hex": "#008d9b"
+  },
+  {
+    "colorName": "กลาโหม",
+    "hex": "#2a0139"
+  },
+  {
+    "colorName": "ตาแมว",
+    "hex": "#4d94ac"
+  },
+  {
+    "colorName": "กรมท่า",
+    "hex": "#1b2c55"
+  },
+  {
+    "colorName": "น้ำเงินนกพิราบ",
+    "hex": "#0f697c"
+  },
+  {
+    "colorName": "ฟ้า",
+    "hex": "#3476ae"
+  },
+  {
+    "colorName": "ม่วงชาด",
+    "hex": "#a5546a"
+  },
+  {
+    "colorName": "ม่วงคราม",
+    "hex": "#3a2d53"
+  },
+  {
+    "colorName": "ม่วงเม็ดมะปราง",
+    "hex": "#702c7d"
+  },
+  {
+    "colorName": "ม่วงดอกตะแบก",
+    "hex": "#b579a6"
+  },
+  {
+    "colorName": "ม่วงดอกผักตบ",
+    "hex": "#776fa5"
+  },
+  {
+    "colorName": "ม่วงเขียว",
+    "hex": "#7f616d"
+  },
+  {
+    "colorName": "ม่วงแก่",
+    "hex": "#432a64"
+  },
+  {
+    "colorName": "ดอกอัญชัน",
+    "hex": "#695095"
+  },
+  {
+    "colorName": "เผือก",
+    "hex": "#bd9dc2"
+  },
+  {
+    "colorName": "ม่วงตอง",
+    "hex": "#9f4a57"
+  },
+  {
+    "colorName": "เปลือกมังคุด",
+    "hex": "#6e2c4f"
+  },
+  {
+    "colorName": "พวงอังกาบ",
+    "hex": "#876aa4"
+  },
+  {
+    "colorName": "ลูกหว้า",
+    "hex": "#400643"
+  },
+  {
+    "colorName": "น้ำตาล",
+    "hex": "#7b4a34"
+  },
+  {
+    "colorName": "น้ำตาลไหม้",
+    "hex": "#522e1a"
+  },
+  {
+    "colorName": "กะปิ",
+    "hex": "#a5505b"
+  },
+  {
+    "colorName": "ฝาด",
+    "hex": "#6f2e28"
+  },
+  {
+    "colorName": "ฟาง",
+    "hex": "#daba8a"
+  },
+  {
+    "colorName": "ดิน",
+    "hex": "#e3a377"
+  },
+  {
+    "colorName": "อิฐ",
+    "hex": "#c1621a"
+  },
+  {
+    "colorName": "สัก",
+    "hex": "#b95831"
+  },
+  {
+    "colorName": "กรัก",
+    "hex": "#8a5929"
+  },
+  {
+    "colorName": "กากี",
+    "hex": "#a19078"
+  },
+  {
+    "colorName": "ทอง",
+    "hex": "#d1b654"
+  },
+  {
+    "colorName": "ทองคำ",
+    "hex": "#bd9425"
+  },
+  {
+    "colorName": "ทองชมพูนุช",
+    "hex": "#dba73b"
+  },
+  {
+    "colorName": "ทองดอกบวบ",
+    "hex": "#ddc153"
+  },
+  {
+    "colorName": "เหลืองเพียงทอง",
+    "hex": "#c0ac23"
+  },
+  {
+    "colorName": "ทองแดง",
+    "hex": "#a0564b"
+  },
+  {
+    "colorName": "ทองแดงสุก",
+    "hex": "#d68f71"
+  },
+  {
+    "colorName": "นาก",
+    "hex": "#cb7371"
+  },
+  {
+    "colorName": "เลื่อมพราย",
+    "hex": "#e3c0ab"
+  },
+  {
+    "colorName": "เลื่อมเหลือง",
+    "hex": "#e7d992"
+  },
+  {
+    "colorName": "เงิน",
+    "hex": "#bcc4c1"
+  },
+  {
+    "colorName": "ขาวปนเพรช",
+    "hex": "#e5dbc0"
+  },
+  {
+    "colorName": "เหล็ก",
+    "hex": "#bcbdb8"
+  },
+  {
+    "colorName": "เหล็กไหล",
+    "hex": "#29241b"
+  },
+  {
+    "colorName": "สัมฤทธิ์ผล",
+    "hex": "#613f1c"
+  },
+  {
+    "colorName": "สัมฤทธิ์โชค",
+    "hex": "#5c4606"
+  },
+  {
+    "colorName": "สัมฤทธิ์ศักดิ์",
+    "hex": "#a1966d"
+  },
+  {
+    "colorName": "สัมฤทธิ์คุณ",
+    "hex": "#165d5a"
+  },
+  {
+    "colorName": "สัมฤทธิ์เดช",
+    "hex": "#444740"
+  },
+  {
+    "colorName": "ดำเขม่า",
+    "hex": "#000000"
+  },
+  {
+    "colorName": "ดำหมึก",
+    "hex": "#5a5b60"
+  },
+  {
+    "colorName": "มอหมึก",
+    "hex": "#778a83"
+  },
+  {
+    "colorName": "หมึกจีน",
+    "hex": "#363c41"
+  },
+  {
+    "colorName": "น้ำรัก",
+    "hex": "#2b1c18"
+  },
+  {
+    "colorName": "สัมฤทธิ์",
+    "hex": "#584e42"
+  },
+  {
+    "colorName": "ปีกกา",
+    "hex": "#364540"
+  },
+  {
+    "colorName": "เขม่ายาง",
+    "hex": "#223640"
+  },
+  {
+    "colorName": "เทา",
+    "hex": "#7f8585"
+  },
+  {
+    "colorName": "เหลืองเทา",
+    "hex": "#b4a790"
+  },
+  {
+    "colorName": "สวาด",
+    "hex": "#6a6e78"
+  },
+  {
+    "colorName": "เขียวนิล",
+    "hex": "#002835"
+  },
+  {
+    "colorName": "นิลกาฬ",
+    "hex": "#00080b"
+  },
+  {
+    "colorName": "ดอกเลา",
+    "hex": "#b3b3ba"
+  },
+  {
+    "colorName": "ลูกห่าน",
+    "hex": "#6b6272"
+  },
+  {
+    "colorName": "ควันเพลิง",
+    "hex": "#9d9081"
+  },
+  {
+    "colorName": "ปูน",
+    "hex": "#9fa49f"
+  },
+  {
+    "colorName": "เทาเขียว",
+    "hex": "#93a9a4"
+  },
+  {
+    "colorName": "ขาวผ่อง",
+    "hex": "#f1ede2"
+  },
+  {
+    "colorName": "ขาวกะบัง",
+    "hex": "#d0cfcf"
+  },
+  {
+    "colorName": "ฟ้าแลบ",
+    "hex": "#efdae0"
+  },
+  {
+    "colorName": "ควายเผือก",
+    "hex": "#efc5b5"
+  },
+  {
+    "colorName": "ช้างเผือก",
+    "hex": "#e09a83"
+  },
+  {
+    "colorName": "กลีบบัว",
+    "hex": "#edbbc6"
+  },
+  {
+    "colorName": "นวลเทา",
+    "hex": "#b4ae9b"
+  },
+  {
+    "colorName": "นวล",
+    "hex": "#dbcc90"
+  },
+  {
+    "colorName": "นวลจันทร์",
+    "hex": "#dcc169"
+  },
+  {
+    "colorName": "สังข์",
+    "hex": "#fff1d0"
+  },
+  {
+    "colorName": "ขาวขาบ",
+    "hex": "#c1d4ce"
+  },
+  {
+    "colorName": "งาช้าง",
+    "hex": "#fffde0"
+  },
+  {
+    "colorName": "หมอก",
+    "hex": "#dbccb9"
+  }
+]
